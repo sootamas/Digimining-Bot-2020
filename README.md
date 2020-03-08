@@ -12,4 +12,4 @@ termux-setup-storage<br>
 cd storage *(use this to access your storage device)<br>
 cd download *(this dir on your storage device)<br>
 ls<br>
-php bot.php
+
