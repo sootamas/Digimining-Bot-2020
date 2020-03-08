@@ -16,7 +16,7 @@ termux-setup-storage<br>
 cd storage *(use this to access your storage device)<br>
 cd download *(this dir on your storage device)<br>
 ls<br>
-git clone https://github.com/logicjoker/Digimining-Bot-2020.git
+git clone https://github.com/logicjoker/Digimining-Bot-2020.git<br>
 cd Digimining-Bot-2020<br>
 python digi.py (put your username and userid here)<br>
 
