@@ -17,7 +17,7 @@ cd storage *(use this to access your storage device)<br>
 cd download *(this dir on your storage device)<br>
 ls<br>
 git clone https://github.com/logicjoker/Digimining-Bot-2020.git
-cd Digimining-Bot-2020
-python digi.py (put your username and userid here)
+cd Digimining-Bot-2020<br>
+python digi.py (put your username and userid here<br>
 
 <a href="https://ibb.co/QmJht8M"><img src="https://i.ibb.co/7ySBLgK/digimining.jpg" alt="digimining" border="0"></a>
