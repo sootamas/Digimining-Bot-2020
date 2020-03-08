@@ -8,7 +8,7 @@ Donation<br>
 BTC : 3PjQH35Y51X4XcPh5JHwrqJ4DDWQjwMWca <br>
 *****
 Installion (Termux) [Important!!!]<br>
-pkg update && upgrade<br>
+pkg update && upgrade -y<br>
 pkg install git<br>
 pkg install php<br>
 pkg instal nano<br>
