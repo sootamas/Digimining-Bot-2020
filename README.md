@@ -1,5 +1,8 @@
-# Digimining-Bot-2020
+# Digimining-Bot-2020(with http captured)
 Script For Digimining.tech
+*****
+Link Web : https://digimining.tech/signup?referral=18868
+How to http captured :https://www.youtube.com/watch?v=K5bKdxqy4tU&t=1s
 *****
 Donation<br>
 BTC : 3PjQH35Y51X4XcPh5JHwrqJ4DDWQjwMWca <br>
@@ -12,4 +15,5 @@ termux-setup-storage<br>
 cd storage *(use this to access your storage device)<br>
 cd download *(this dir on your storage device)<br>
 ls<br>
+
 
