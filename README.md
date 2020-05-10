@@ -2,7 +2,7 @@
 Script For Digimining.tech
 *****
 Link Web : https://digimining.tech/signup?referral=18868<br>
-How to http captured :https://www.youtube.com/watch?v=K5bKdxqy4tU&t=1s<br>
+How to http captured : https://www.youtube.com/watch?v=K5bKdxqy4tU&t=1s<br>
 *****
 Donation<br>
 BTC : 3PjQH35Y51X4XcPh5JHwrqJ4DDWQjwMWca <br>
